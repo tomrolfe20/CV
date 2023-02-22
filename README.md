@@ -1,8 +1,10 @@
 # Tom Rolfe
 
-## JUNIOR SOFTWARE ENGINEER
+## SOFTWARE ENGINEER
 
 ## HTML - CSS - JAVASCRIPT - REACT - RUBY - SQL
+
+## MAKERS ACADEMY GRADUATE
 
 ## S K I L L S
 
@@ -40,14 +42,17 @@ I realised a need for an efficient digital
 recruitment platform in the industry. What
 initially started as an idea with a friend has now
 become a fully functioning app and web
-platform, with over 4000 users. From concept
-to production, the whole project really ignited
+platform, with over 4000 users.
+
+From concept to production, the whole project really ignited
 my interest in coding and the development
 process, so I began my own journey into
 learning to code. For 19 months, I've been
 working through a multitude of online tutorials
 and completing all of the relevant Front-End
-Codecademy courses as well as most recently completing the Makers Academy bootcamp.
+Codecademy courses as well as most recently
+completing the Makers Academy bootcamp.
+
 I have vast experience problem solving in high
 pressure environments and I have learned to
 excel in these situations. I am now ready for the
@@ -67,7 +72,7 @@ Revelant projects i've worked on
   testing, pitching. I learned about the trials of
   building a startup.
 
-  <a href="https://eventmaster.jobs/" target="_blank">Check it out here</a>
+  <a href="https://eventmaster.jobs/" target="_blank">Deployed site</a>
 
 ### Clear my head
 
@@ -75,20 +80,31 @@ Revelant projects i've worked on
 - Built in React. Used Firebase to create and host
   the database. Hosted on Github.
 
+  <a href="https://tomrolfe20.github.io/clear-my-head/" target="_blank">Deployed site</a>
+  <a href="https://github.com/tomrolfe20/clear-my-head" target="_blank">Github</a>
+
 ### Acebook - Facebook clone
 
 - HTML, CSS, Javascript, React, MongoDB, Express, Node
 - This was a Makers Academy group engineering project. We used the MERN stack to create this fully functioning Facebook clone.
+
+<a href="https://acebook-air-frontend.onrender.com/" target="_blank">Deployed site</a>
+<a href="https://github.com/tomrolfe20/Acebook" target="_blank">Github</a>
 
 ### Chitter - Twitter clone
 
 - HTML, CSS, Javascript, React, Twitter API
 - Weekend challenge to create a Twitter clone using a prebuilt API.
 
+<a href="https://chitter-react-makers.vercel.app/" target="_blank">Deployed site</a>
+<a href="https://github.com/tomrolfe20/chitter-react-vercel" target="_blank">Github</a>
+
 ### Makers BNB - AirBnb clone
 
 - HTML, CSS, Javascript, Active Records
 - Group project creating an AirBnb clone.
+
+<a href="https://github.com/tomrolfe20/makers-bnb" target="_blank">Github</a>
 
 ### LinkedIn Clone
 
@@ -98,6 +114,8 @@ Revelant projects i've worked on
   database. Learned to use Firebase authorisation
   to create a log in.
 
+  <a href="https://linkedin-clone-b4f86.web.app/" target="_blank">Deployed site</a>
+
 ### Charlotte Writes
 
 - Wordpress, Elementor.
@@ -106,6 +124,8 @@ Revelant projects i've worked on
   Geographic. Hosted in Site Ground and learnt how
   to link the domain name.
 
+  <a href="https://charlotte-writes.co.uk/" target="_blank">Deployed site</a>
+
 ### Impact Bars
 
 - HTML, CSS, Javascript, React, Github
@@ -113,10 +133,8 @@ Revelant projects i've worked on
   to customise the look and feel of the design. Used
   Styled Components.
 
-### Fit Club
-
-- HTML, CSS, Javascript, React
-- Online tutorial. Used animations in CSS.
+  <a href="https://tomrolfe20.github.io/impactbarswebsite/" target="_blank">Deployed site</a>
+  <a href="https://github.com/tomrolfe20/impactbarswebsite" target="_blank">Github</a>
 
 ## E M P L O Y M E N T
 
