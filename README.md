@@ -72,7 +72,7 @@ Revelant projects i've worked on
   testing, pitching. I learned about the trials of
   building a startup.
 
-  <a href="https://eventmaster.jobs/" target="_blank">Deployed site</a>
+<a href="https://eventmaster.jobs/" target="_blank">Deployed site</a>
 
 ### Clear my head
 
@@ -80,8 +80,8 @@ Revelant projects i've worked on
 - Built in React. Used Firebase to create and host
   the database. Hosted on Github.
 
-  <a href="https://tomrolfe20.github.io/clear-my-head/" target="_blank">Deployed site</a> |
-  <a href="https://github.com/tomrolfe20/clear-my-head" target="_blank">Github</a>
+<a href="https://tomrolfe20.github.io/clear-my-head/" target="_blank">Deployed site</a> |
+<a href="https://github.com/tomrolfe20/clear-my-head" target="_blank">Github</a>
 
 ### Acebook - Facebook clone
 
@@ -114,7 +114,7 @@ Revelant projects i've worked on
   database. Learned to use Firebase authorisation
   to create a log in.
 
-  <a href="https://linkedin-clone-b4f86.web.app/" target="_blank">Deployed site</a>
+<a href="https://linkedin-clone-b4f86.web.app/" target="_blank">Deployed site</a>
 
 ### Charlotte Writes
 
@@ -124,7 +124,7 @@ Revelant projects i've worked on
   Geographic. Hosted in Site Ground and learnt how
   to link the domain name.
 
-  <a href="https://charlotte-writes.co.uk/" target="_blank">Deployed site</a>
+<a href="https://charlotte-writes.co.uk/" target="_blank">Deployed site</a>
 
 ### Impact Bars
 
@@ -133,8 +133,8 @@ Revelant projects i've worked on
   to customise the look and feel of the design. Used
   Styled Components.
 
-  <a href="https://tomrolfe20.github.io/impactbarswebsite/" target="_blank">Deployed site</a> |
-  <a href="https://github.com/tomrolfe20/impactbarswebsite" target="_blank">Github</a>
+<a href="https://tomrolfe20.github.io/impactbarswebsite/" target="_blank">Deployed site</a> |
+<a href="https://github.com/tomrolfe20/impactbarswebsite" target="_blank">Github</a>
 
 ## E M P L O Y M E N T
 
