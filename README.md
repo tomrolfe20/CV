@@ -80,7 +80,7 @@ Revelant projects i've worked on
 - Built in React. Used Firebase to create and host
   the database. Hosted on Github.
 
-  <a href="https://tomrolfe20.github.io/clear-my-head/" target="_blank">Deployed site</a>
+  <a href="https://tomrolfe20.github.io/clear-my-head/" target="_blank">Deployed site</a> |
   <a href="https://github.com/tomrolfe20/clear-my-head" target="_blank">Github</a>
 
 ### Acebook - Facebook clone
@@ -88,7 +88,7 @@ Revelant projects i've worked on
 - HTML, CSS, Javascript, React, MongoDB, Express, Node
 - This was a Makers Academy group engineering project. We used the MERN stack to create this fully functioning Facebook clone.
 
-<a href="https://acebook-air-frontend.onrender.com/" target="_blank">Deployed site</a>
+<a href="https://acebook-air-frontend.onrender.com/" target="_blank">Deployed site</a> |
 <a href="https://github.com/tomrolfe20/Acebook" target="_blank">Github</a>
 
 ### Chitter - Twitter clone
@@ -96,7 +96,7 @@ Revelant projects i've worked on
 - HTML, CSS, Javascript, React, Twitter API
 - Weekend challenge to create a Twitter clone using a prebuilt API.
 
-<a href="https://chitter-react-makers.vercel.app/" target="_blank">Deployed site</a>
+<a href="https://chitter-react-makers.vercel.app/" target="_blank">Deployed site</a> |
 <a href="https://github.com/tomrolfe20/chitter-react-vercel" target="_blank">Github</a>
 
 ### Makers BNB - AirBnb clone
@@ -133,7 +133,7 @@ Revelant projects i've worked on
   to customise the look and feel of the design. Used
   Styled Components.
 
-  <a href="https://tomrolfe20.github.io/impactbarswebsite/" target="_blank">Deployed site</a>
+  <a href="https://tomrolfe20.github.io/impactbarswebsite/" target="_blank">Deployed site</a> |
   <a href="https://github.com/tomrolfe20/impactbarswebsite" target="_blank">Github</a>
 
 ## E M P L O Y M E N T
